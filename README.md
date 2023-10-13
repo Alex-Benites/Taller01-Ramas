@@ -12,4 +12,5 @@ EVIDENCIA DE FUSION DE RAMA MAIN + ARTISTA
 Evidencia fusion rama Orden con Main
 
 ![Evidencia fusión](https://github.com/Alex-Benites/Taller01-Ramas/assets/132379170/f7e9edac-0e34-4578-92d6-7c498a60b96c)
-Evidencia cambio orden descendente ![evidencia 1](https://github.com/Alex-Benites/Taller01-Ramas/assets/132379170/3c1e6022-8830-4a58-b140-f8a5ebddbe06)
+Evidencia cambio orden descendente ![Evidencia](https://github.com/Alex-Benites/Taller01-Ramas/assets/132379170/4ccc7ea5-6963-4027-a75f-86d818c2ce66)
+
