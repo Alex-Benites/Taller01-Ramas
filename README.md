@@ -1,5 +1,4 @@
 # Taller01-Ramas
 Taller Diseño Software (Ramas-conflictos)
-Imagen (Lider)
-
-![Captura de Imagen (Lider)](https://github.com/Alex-Benites/Taller01-Ramas/assets/136673432/8bb1120f-337f-4662-ad36-ae39210138ed)
+Imagen (integrante 3)
+![Evidencia de integrante 3](https://github.com/Alex-Benites/Taller01-Ramas/assets/136658235/81e95f5e-dbeb-48ed-b7b0-83995b4f6771)
